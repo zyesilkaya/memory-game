@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/zeynep/AndroidStudioProjects/MemoryGame/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="..\:/Users/zeynep/AndroidStudioProjects/MemoryGame/app/src/main/res/drawable/ic_face.xml" value="0.1" />
+        <entry key="..\:/Users/zeynep/AndroidStudioProjects/MemoryGame/app/src/main/res/drawable/ic_flower.xml" value="0.1725" />
+        <entry key="..\:/Users/zeynep/AndroidStudioProjects/MemoryGame/app/src/main/res/drawable/ic_gift.xml" value="0.1725" />
+        <entry key="..\:/Users/zeynep/AndroidStudioProjects/MemoryGame/app/src/main/res/drawable/ic_heart.xml" value="0.1725" />
+        <entry key="..\:/Users/zeynep/AndroidStudioProjects/MemoryGame/app/src/main/res/drawable/ic_home.xml" value="0.1725" />
+        <entry key="..\:/Users/zeynep/AndroidStudioProjects/MemoryGame/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="..\:/Users/zeynep/AndroidStudioProjects/MemoryGame/app/src/main/res/drawable/ic_lightning.xml" value="0.1725" />
+        <entry key="..\:/Users/zeynep/AndroidStudioProjects/MemoryGame/app/src/main/res/drawable/ic_moon.xml" value="0.1725" />
+        <entry key="..\:/Users/zeynep/AndroidStudioProjects/MemoryGame/app/src/main/res/drawable/ic_plane.xml" value="0.1725" />
+        <entry key="..\:/Users/zeynep/AndroidStudioProjects/MemoryGame/app/src/main/res/drawable/ic_refresh.xml" value="0.1725" />
+        <entry key="..\:/Users/zeynep/AndroidStudioProjects/MemoryGame/app/src/main/res/drawable/ic_school.xml" value="0.1725" />
+        <entry key="..\:/Users/zeynep/AndroidStudioProjects/MemoryGame/app/src/main/res/drawable/ic_send.xml" value="0.1725" />
+        <entry key="..\:/Users/zeynep/AndroidStudioProjects/MemoryGame/app/src/main/res/layout/activity_create.xml" value="0.264" />
+        <entry key="..\:/Users/zeynep/AndroidStudioProjects/MemoryGame/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/zeynep/AndroidStudioProjects/MemoryGame/app/src/main/res/layout/card_image.xml" value="0.20863616930312098" />
+        <entry key="..\:/Users/zeynep/AndroidStudioProjects/MemoryGame/app/src/main/res/layout/dialog_board_size.xml" value="0.264" />
+        <entry key="..\:/Users/zeynep/AndroidStudioProjects/MemoryGame/app/src/main/res/layout/memory_card.xml" value="0.16" />
+        <entry key="..\:/Users/zeynep/AndroidStudioProjects/MemoryGame/app/src/main/res/menu/menu_main.xml" value="0.4" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
